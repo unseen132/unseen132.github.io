@@ -1,6 +1,35 @@
 body{
-    background-color: black;
+    background-color: gray;
 }
 #The_pallet_cabin { color: red;}
 
 #cabin { color: purple;}
+#cabin_pic{
+   width: 400px;
+   height: 400px;
+}
+#second_pic{
+width: 400px;
+height: 400px;}
+
+#third_pic{
+width: 400px;
+height: 400px;}
+
+#fourth_pic{
+width: 500px;
+height 600px;}
+
+#fifth_pic{ width: 400px; height: 400px;}
+#sixth_pic{ width: 400px; height: 400px;}
+#seven{ width: 400px; height: 400px;}
+#thirteenth{ width: 400px; height: 500px;}
+#seventeenth{ width: 400px; height: 500px;}
+
+#eighteenth{ width: 500px; height: 500px;}
+#ninteenth{ width: 1200px; height: 900px;}
+#twentyone{ width: 600px; height: 600px;}
+#twentynine{ width: 900px; height: 600px;}
+#thirtyfive{ width: 650px; height: 700px;}
+#twinkle{ width: 600px; height: 600px;}
+
